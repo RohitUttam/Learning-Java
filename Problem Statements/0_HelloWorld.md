@@ -1,4 +1,4 @@
-### [0. Challenge Name: Welcome to Java!](/Solutions/0_HelloWorld.java)
+### [0. Challenge Name: Welcome to Java!](/Solutions/HelloWorld.java)
 
 
 Welcome to the world of Java! In this challenge, we practice printing to stdout.
